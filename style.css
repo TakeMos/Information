@@ -1,6 +1,27 @@
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+}
 h2 {
     font-size: 30px;
 }
 .ing {
     font-size: 20px;
+}
+.play {
+    background-color: black;
+    width: 640px;
+    height: 320px;
+    text-align: center;
+    color: white
+}
+.start{
+    padding: 160px 0;
+}
+.intro{
+    font-size: 40px;
+}
+.main{
+    font-size: 20px;
+    text-align: justify;
 }
